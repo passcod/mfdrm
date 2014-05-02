@@ -1,12 +1,14 @@
 THE MANIFOLD REALMS WRAPPER
 ===========================
 
-![Screenshot]()
+![Screenshot](https://i.imgur.com/a6oeAlE.png)
 
 Uses node-webkit to provide a single-purpose window
-onto [THe Manifold Realms]. Made in the same vein as
+onto [The Manifold Realms]. Made in the same vein as
 my earlier [twd](https://github.com/passcod/twd) and
 also [kndl](https://github.com/passcod/kndl).
+
+[The Manifold Realms]: http://themanifoldrealms.makopool.com
 
 Require node-webkit 0.7.x or greater.
 
