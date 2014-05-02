@@ -1,0 +1,43 @@
+{
+  "name": "mfdrm",
+  "version": "1.0.0",
+  "description": "The Manifold Realms, standalone viewer",
+  "keywords": [
+    "node-webkit",
+    "manifold",
+    "realms",
+    "mako"
+  ],
+  "homepage": "https://github.com/passcod/mfdrm",
+  "author": "Félix Saparelli <https://passcod.name>",
+  "contributors": [
+    {
+      "name": "Félix Saparelli",
+      "email": "me@passcod.name"
+    }
+  ],
+  "license": {
+    "type": "Public Domain",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/passcod/mfdrm.git"
+  },
+  "engines": {
+    "node-webkit": ">=0.7.0"
+  },
+  "main": "app://mfdrm/index.html",
+  "nodejs": true,
+  "single-instance": false,
+  "user-agent": "Mozilla/5.0 (%osinfo) AppleWebKit/%webkit_ver (KHTML, like Gecko) Chrome/30.1.2345.67 Safari/543.21 NodeWebkit/%nwver mfdrm/%version",
+  "window": {
+    "icon": "icon.png",
+    "toolbar": false,
+    "height": 600,
+    "width": 600,
+    "title": "The Manifold Realms",
+    "position": "centre",
+    "resizable": true
+  }
+}
