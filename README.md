@@ -1,7 +1,7 @@
 THE MANIFOLD REALMS WRAPPER
 ===========================
 
-![Screenshot](http://i.imgur.com/aDZr3s3.png)
+![Screenshot](https://i.imgur.com/aDZr3s3.png)
 
 Uses node-webkit to provide a single-purpose window
 onto [The Manifold Realms]. Made in the same vein as
