@@ -1,6 +1,8 @@
 THE MANIFOLD REALMS WRAPPER
 ===========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/passcod/mfdrm.svg)](https://greenkeeper.io/)
+
 ![Screenshot](https://i.imgur.com/aDZr3s3.png)
 
 Uses node-webkit to provide a single-purpose window
